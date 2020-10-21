@@ -302,6 +302,12 @@ https://www.tooplate.com/view/2120-ben-resume
      HERO                
   -----------------------------------------*/
 
+
+  .card {
+    float: left;
+    margin: 10px;
+  }
+
   .hero-title,
   .email-link {
     background: var(--dark-color);
