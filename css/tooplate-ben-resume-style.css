@@ -31,7 +31,7 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   :root {
-    --primary-color:        #f7f443;
+    --primary-color:        #F1BD0D;
     --white-color:          #ffffff;
     --dark-color:           #010101;
     --menu-bg-color:        #212529;
@@ -618,6 +618,9 @@ https://www.tooplate.com/view/2120-ben-resume
     .hero-title {
       font-size: 26px;
     }
+
+  
+
 
     .email-link {
       font-size: 20px;
